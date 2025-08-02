@@ -26,6 +26,10 @@ https://wolfconnects.netlify.app/
 <img width="1876" height="920" alt="image" src="https://github.com/user-attachments/assets/b185f500-e2fa-44ed-a297-a281120020d8" />
 <img width="1900" height="920" alt="image" src="https://github.com/user-attachments/assets/a8770d8b-e99d-4faa-9d29-27090a936f42" />
 ![WhatsApp Image 2025-08-02 at 09 30 22_35a3891f](https://github.com/user-attachments/assets/7db11daf-1ae1-4493-8422-ca346b8f4865)
+![WhatsApp Image 2025-08-02 at 09 31 15_d6fd79c5](https://github.com/user-attachments/assets/2b445d81-4506-4771-b70f-64105de76176)
+![WhatsApp Image 2025-08-02 at 09 32 10_dd808476](https://github.com/user-attachments/assets/819fd035-45ff-4e0f-839a-39ed926e9a1d)
+
+
 
 
 
