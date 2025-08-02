@@ -1,4 +1,3 @@
-WolfConnects
 WolfConnects is a modern community-driven social platform designed for students and professionals to connect, share, and grow together. Built with a sleek UI and responsive layout, it enables users to create profiles, share updates, interact through messages, and stay connected within their network.
 
 🔧 Features
